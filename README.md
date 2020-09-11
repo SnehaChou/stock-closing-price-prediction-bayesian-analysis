@@ -23,5 +23,5 @@ Packages that needs to be installed
 
 ## Contributors
 
-- [Sneha Choudhary](https://github.com/SnehaChou)
+- [Vidhi Gupta](https://github.com/vidhig)
 - [Menuka Jaiswal](https://github.com/menuka07)
